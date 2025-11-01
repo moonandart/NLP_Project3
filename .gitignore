@@ -1,0 +1,88 @@
+# =====================================
+#  🧠 IndoBERT Summarization Project
+#  (Colab / Hugging Face / PyTorch)
+# =====================================
+
+# --- System & IDE ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.zip
+*.rar
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# --- Python Cache ---
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+__pycache__/
+
+# --- Colab / Drive temporary mounts ---
+/content/
+/mnt/
+/root/
+/gdrive/
+/drive/
+/content/drive/
+
+# --- Data ---
+data/**          # ignore all data files
+!data/.gitkeep   # keep folder structure
+!data/sample_*.csv  # allow small demo/sample CSVs if needed
+
+# --- Outputs (keep only CSVs you want) ---
+outputs/*.json
+outputs/*.txt
+outputs/*.npz
+outputs/*.pkl
+outputs/*.pt
+outputs/*.bin
+outputs/*.ckpt
+outputs/*.tar.gz
+outputs/examples/*.txt
+!outputs/*.csv   # keep summary and ROUGE CSVs
+
+# --- Model Checkpoints / Cache ---
+models/*
+!models/README.md
+
+# Hugging Face cache
+~/.cache/
+~/.huggingface/
+.huggingface/
+datasets/
+models--*/ 
+cache/
+*.h5
+*.ckpt
+*.safetensors
+
+# --- Jupyter Notebook autosaves ---
+*.ipynb_checkpoints
+*checkpoint.ipynb
+
+# --- Environment / Virtualenv ---
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+Pipfile.lock
+poetry.lock
+requirements.txt
+
+# --- OS-level files ---
+desktop.ini
+ehthumbs.db
+Icon?
+
+
