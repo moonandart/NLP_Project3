@@ -1,4 +1,4 @@
-# 🇮🇩 IndoBERT Summarization — BERT2BERT (Liputan6 News Dataset)
+# IndoBERT Summarization — BERT2BERT (Liputan6 News Dataset)
 
 This project applies **Indonesian BERT2BERT** (`cahya/bert2bert-indonesian-summarization`) to summarize long-form news articles from **Liputan6**.  
 It uses a **token-safe summarization approach** for BERT2BERT (max 512 tokens) and is optimized for **Google Colab (T4 GPU)**.
