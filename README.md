@@ -153,3 +153,10 @@ If you use this notebook, model, or dataset in your research or projects, please
 
 > 💡 **Acknowledgement:**  
 > This project builds upon the open-source work of [Cahya Wirawan](https://github.com/cahya-wirawan) and the Liputan6 dataset creators — Fajri Koto, Jey Han Lau, and Timothy Baldwin. Their contributions to Indonesian NLP and summarization research are invaluable to the community.
+
+```
+🏁 Author
+Aris (moonandart)
+AI & NLP enthusiast — exploring sentiment analysis, BERT fine-tuning, and contextual AI tools.
+🔗 https://github.com/moonandart
+```
