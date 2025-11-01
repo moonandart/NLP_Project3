@@ -1,4 +1,4 @@
-# 🇮🇩 IndoBERT Summarization — BERT2BERT (Liputan6 News Dataset)
+# 🇮🇩 News Summarization using IndoBERT — BERT2BERT
 
 This project applies **Indonesian BERT2BERT** (`cahya/bert2bert-indonesian-summarization`) to summarize long-form news articles from **Liputan6**.  
 It uses a **token-safe summarization approach** for BERT2BERT (max 512 tokens) and is optimized for **Google Colab (T4 GPU)**.
@@ -154,9 +154,9 @@ If you use this notebook, model, or dataset in your research or projects, please
 > 💡 **Acknowledgement:**  
 > This project builds upon the open-source work of [Cahya Wirawan](https://github.com/cahya-wirawan) and the Liputan6 dataset creators — Fajri Koto, Jey Han Lau, and Timothy Baldwin. Their contributions to Indonesian NLP and summarization research are invaluable to the community.
 
-```
-🏁 Author
-Aris (moonandart)
-AI & NLP enthusiast — exploring sentiment analysis, BERT fine-tuning, and contextual AI tools.
+---
+## 🏁 Author
+
+**Aris (moonandart)**  
+AI & NLP enthusiast — exploring sentiment analysis, BERT fine-tuning, and contextual AI tools.  
 🔗 https://github.com/moonandart
-```
